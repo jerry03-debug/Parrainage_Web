@@ -1,5 +1,5 @@
 Bienvenue sur Sama Parrain la plateforme de parrainage des electeurs.
-## Lien vers le site en production
+## Lien vers Sama Parrain
 
 Vous pouvez consulter le site en production en suivant ce lien : ([[http://md-parrainage-electeur.vercel.app/])
 
